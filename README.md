@@ -27,3 +27,4 @@ ws协议-WhatsApp云控系统-海豚云控系统
 ✅群聊
 
 端口功能-端口日志
+<img width="1005" height="760" alt="image" src="https://github.com/user-attachments/assets/1bf0fba5-6b8e-492f-9be2-f83f2b939c82" />
