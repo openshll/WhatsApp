@@ -1,4 +1,4 @@
-ws协议-WhatsApp完美云控系统-完美云控系统
+ws协议-WhatsApp完美控系统-完美控系统
 
 官方订阅TG:https://t.me/PDDCVV1
 
